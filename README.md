@@ -1,6 +1,3 @@
-# QA-Portfolio
-This repository contains my portfolio as a QA Engineer.
-
 # QA Engineer Portfolio
 
 This repository contains my portfolio as a QA Engineer. It demonstrates my skills in API Testing, Automation Testing, and Performance Testing through various mini-projects. The projects are built using popular tools such as Postman, Cypress, Katalon, and JMeter.
